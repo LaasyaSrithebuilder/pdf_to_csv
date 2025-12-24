@@ -1,0 +1,14 @@
+﻿# cffi==2.0.0
+# charset-normalizer==3.4.4
+# cryptography==46.0.3
+# pdfminer.six==20251107
+# pdfplumber==0.11.8
+# pillow==12.0.0
+# pip==24.3.1
+# pycparser==2.23
+# pypdfium2==5.2.0
+# pdfplumber exists to extract structured text and tables from PDFs.
+
+pdfplumber==0.11.8
+pandas
+pytest
